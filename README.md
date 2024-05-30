@@ -79,4 +79,4 @@ Angela Infanta Ramesh, Ashish Dinesh Singh,Battina Babykutty, and Dheeraj Kallak
 [Read the full paper here](https://ijemr.vandanapublications.com/index.php/ijemr/article/view/57/57)
 
 ### Citation:
-A.I. Ramesh, A. Singh, B. Babykutty and D. Kallakuri, Implementation of Implantation Stagger Measuring Unit. *International Journal of Engineering and Management Research, Volume-11, Issue-3 (June 2021)*, [DOI: 10.31033/ijemr.11.3.538](https://doi.org/10.31033/ijemr.11.3.538). 
+A.I. Ramesh, A. Singh, B. Babykutty and D. Kallakuri, Implementation of Implantation Stagger Measuring Unit. *International Journal of Engineering and Management Research, Volume-11, Issue-3 (June 2021)*,
