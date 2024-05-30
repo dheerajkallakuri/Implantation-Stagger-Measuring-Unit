@@ -6,14 +6,14 @@ The Implantation and Stagger Measuring Unit is designed to automate the measurem
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Hardware Setup](#hardware-setup)
-3. [Software Setup](#software-setup)
-4. [Implementation Details](#implementation-details)
-   - [Implantation Measurement](#implantation-measurement)
-   - [Stagger Measurement](#stagger-measurement)
-5. [Usage Instructions](#usage-instructions)
-6. [Paper Preview](#paper-preview)
+1. Introduction
+2. Hardware Setup
+3. Software Setup
+4. Implementation Details
+   - Implantation Measurement
+   - Stagger Measurement
+5. Usage Instructions
+6. Paper Preview
 
 ## Introduction
 
