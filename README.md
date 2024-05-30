@@ -23,8 +23,6 @@ Railway electric traction systems, known as Overhead Equipment (OHE) systems, re
 
 1. **Raspberry Pi**: Ensure that the Raspberry Pi is set up with the latest Raspberry Pi OS.
 2. **Camera**: Attach a Raspberry Pi camera module to the Raspberry Pi.
-3. **Wooden Frame**: Construct a wooden frame with a height of 1 meter to mount the Raspberry Pi camera. Place the frame such that its shaft is at the center of the track.
-4. **Laser Pointer**: Attach a laser pointer above the camera to align the camera with the mast for implantation measurements.
 
 ### Connection
 
